@@ -47,6 +47,7 @@ export const TempSpan = styled.span`
     text-align: right;
     margin-right: 25px;
     flex: 1;
+
 `
 
 // TopBar

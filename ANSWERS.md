@@ -7,6 +7,8 @@ PropTypes are used for checking the primitive data type being passed into a comp
 
 - [ ] Describe a life-cycle event in React?
 
+// Answer
+
 The React lifecycle is:
 
 - Initialize data
@@ -16,9 +18,13 @@ The React lifecycle is:
 
 - [ ] Explain the details of a Higher Order Component?
 
+// Answer
+
 - A higher order component is a function/object that takes another function/object. We have been using them primarily so far for styling and authentication. They basically render a certain UI and state based on other input.
 
 - [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+
+//Answer
 
 You can write vanilla CSS like a normal person, you can use Sass (or another preprocessor) which is built into React like a genius, or you can use Styled Components like a crazed developer who hasn't seen daylight in days and lives off hotpockets and kool-aid.
 
